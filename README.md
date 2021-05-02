@@ -8,6 +8,9 @@ For the paper. Generative Art: A new approach with Generative Adversarial Networ
 
 
 
+By Said Moredi
+
+
 
 
 
