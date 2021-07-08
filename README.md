@@ -12,7 +12,7 @@ By Said Moredi
 
 
 
-REG NO: 170007136
+If you want to run your own: https://www.kaggle.com/moredeyethejedeye/code
 
 
 
